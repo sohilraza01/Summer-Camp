@@ -1,3 +1,3 @@
 # Summer-Camp
 This is my first repository <br>
-Author - Sohil Ansari
+Author - Sohil Raza
